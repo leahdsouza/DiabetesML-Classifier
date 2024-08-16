@@ -3,11 +3,11 @@ This repository contains an analysis and machine learning project focused on dia
 
 ## Project Overview
 The project involves the following steps:
-Data Exploration: Statistical analysis and visualization of the dataset to understand the distribution of features and identify any necessary preprocessing steps.
-Correlation Analysis: Computing Pearson Correlation Coefficients (PCC) and generating scatter plots to analyze relationships between features and the target variable.
-Model Training: Training various classifiers, including Multinomial Logistic Regression, Support Vector Machines, and Random Forest, while tuning hyperparameters to improve performance.
-Model Evaluation: Evaluating models based on training, validation, and testing datasets, and comparing performance metrics such as accuracy, precision, recall, and F1 score.
-Ensemble Method: Combining different classifiers into an ensemble to enhance performance on the validation set, and testing the ensemble on the test set.
+- Data Exploration: Statistical analysis and visualization of the dataset to understand the distribution of features and identify any necessary preprocessing steps.
+- Correlation Analysis: Computing Pearson Correlation Coefficients (PCC) and generating scatter plots to analyze relationships between features and the target variable.
+- Model Training: Training various classifiers, including Multinomial Logistic Regression, Support Vector Machines, and Random Forest, while tuning hyperparameters to improve performance.
+- Model Evaluation: Evaluating models based on training, validation, and testing datasets, and comparing performance metrics such as accuracy, precision, recall, and F1 score.
+- Ensemble Method: Combining different classifiers into an ensemble to enhance performance on the validation set, and testing the ensemble on the test set.
 
 
 ## Dataset Used
